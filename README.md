@@ -12,28 +12,28 @@ It focuses on sales performance, profitability, customer payment behavior, and r
 - Total Profit
 
 ## Dashboard Insights
--Sales and quantity by payment mode
--Monthly sales trend analysis
--City-wise sales distribution (map view)
--Top 5 cities by sales
--Category contribution summary
--Top sub-categories by sales
--Sales and profit comparison by category
+- Sales and quantity by payment mode
+- Monthly sales trend analysis
+- City-wise sales distribution (map view)
+- Top 5 cities by sales
+- Category contribution summary
+- Top sub-categories by sales
+- Sales and profit comparison by category
 
 ## Filters Included
--Order Date
--Category
--Payment Mode
+- Order Date
+- Category
+- Payment Mode
 
 ## Tools Used
--Microsoft Power BI
--DAX
--Data Modeling
+- Microsoft Power BI
+- DAX
+- Data Modeling
 
 ## Files Included
--PowerrBI_ecommerce_Dashboard.pbix
--Details.csv & orders.csv
--dashboard_preview.png
+- PowerrBI_ecommerce_Dashboard.pbix
+- Details.csv & orders.csv
+- dashboard_preview.png
 
 ## Preview
 ![Dashboard Preview](https://github.com/muminyasincse/PowerrBI_ecommerce_Dashboard/blob/main/e-commerce.jpg)
