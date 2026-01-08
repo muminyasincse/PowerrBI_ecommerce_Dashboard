@@ -32,8 +32,8 @@ It focuses on sales performance, profitability, customer payment behavior, and r
 
 ## Files Included
 -PowerrBI_ecommerce_Dashboard.pbix
--Details.xlsx & orders.xlsx
+-Details.csv & orders.csv
 -dashboard_preview.png
 
 ## Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](https://github.com/muminyasincse/PowerrBI_ecommerce_Dashboard/blob/main/e-commerce.jpg)
