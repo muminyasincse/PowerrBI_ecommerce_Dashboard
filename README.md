@@ -20,6 +20,13 @@ It focuses on sales performance, profitability, customer payment behavior, and r
 - Top sub-categories by sales
 - Sales and profit comparison by category
 
+## Key Findings
+- COD is the highest revenue payment mode but has lower order quantity compared to UPI
+- Electronics generates the highest sales but similar profit margins across categories
+- Sales peak in March and November, indicating seasonal demand
+- A small number of cities contribute a disproportionate share of total sales
+
+
 ## Filters Included
 - Order Date
 - Category
