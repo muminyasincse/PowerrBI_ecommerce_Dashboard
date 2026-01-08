@@ -5,11 +5,15 @@ This project analyzes e-commerce order data using Power BI.
 It focuses on sales performance, profitability, customer payment behavior, and regional trends to support data-driven business decisions.
 
 ## Key Metrics
--Total Sales.
--Orders Count.
--Average Order Value.
--Profit per Order.
--Total Profit.
+-Total Sales
+
+-Orders Count
+
+-Average Order Value
+
+-Profit per Order
+
+-Total Profit
 
 ## Dashboard Insights
 -Sales and quantity by payment mode
